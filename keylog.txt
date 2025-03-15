@@ -1,0 +1,18 @@
+ [Key.cmd] stat [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace] start [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.shift]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.cmd] chrom [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace] how [Key.space] to [Key.space] a [Key.backspace] stop [Key.enter]  [Key.alt_l]  [Key.tab]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.esc]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.alt_l]  [Key.tab]  [Key.tab]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.shift]  [Key.enter]  [Key.enter]  [Key.enter]  [Key.enter] how [Key.space] to [Key.space] run [Key.space] keylogger [Key.alt_l]  [Key.alt_l]  [Key.tab]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.alt_l]  [Key.tab]  [Key.ctrl_l]  [Key.shift]  [Key.enter]  [Key.alt_l]  [Key.alt_l]  [Key.alt_l]  [Key.alt_l]  [Key.alt_l]  [Key.alt_l]  [Key.alt_l]  [Key.tab]  [Key.cmd]  [Key.cmd]  [Key.esc]  [Key.esc]  [Key.alt_l]  [Key.alt_l]  [Key.alt_l]  [Key.tab] is [Key.backspace] ts [Key.space] lagging [Key.space]  [Key.enter]  [Key.alt_l]  [Key.tab]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.esc] [Key.cmd]chrom\[Key.backspace][Key.backspace][Key.backspace]
+[Key.esc]
+[Key.cmd]chrome[Key.enter]he
+k[Key.backspace]llo[Key.backspace]\[Key.ctrl_l][Key.ctrl_l]
+[Key.ctrl_l][Key.backspace][Key.esc]
+[Key.cmd]chrome[Key.enter]he
+lo[Key.enter][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]
+[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.esc]
+[Key.cmd]chroome[Key.enter]h
+ello[Key.enter][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]
+[Key.backspace][Key.backspace][Key.backspace][Key.backspace]`[Key.esc]
+[Key.cmd]chrome'by
+e[Key.enter]bye[Key.enter][Key.backspace][Key.backspace][Key.backspace][Key.backspace]
+[Key.backspace][Key.backspace][Key.esc]
+[Key.cmd]chrome[Key.enter]ho
+w[Key.space]are[Key.space]you[Key.space]
+[Key.backspace][Key.end][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]
+[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.esc]
